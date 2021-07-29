@@ -1,6 +1,6 @@
+import React from "react";
 import "./App.css";
-import Homepage from "./homepage.component";
-import "./homepage.styles.scss";
+import Homepage from "./pages/homepage.component";
 
 function App() {
 	return (
@@ -9,5 +9,4 @@ function App() {
 		</div>
 	);
 }
-
 export default App;
